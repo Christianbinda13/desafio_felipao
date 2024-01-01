@@ -1,7 +1,5 @@
-
-
 let nomeHeroi = ("Goku");
-let xpHeroi = parseInt(prompt("3500: ")) 
+let xpHeroi = ("3500")
 
 let nivel;
 if (xpHeroi < 1000) {
